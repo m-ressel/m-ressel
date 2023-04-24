@@ -37,6 +37,6 @@ I'm a math graduate who loves exploring and analyzing data! I started learning a
 
 
 <div align="center">
-  Thanks for visiting my profile, have a great day! <br/>
+  🌟 Thanks for visiting my profile, have a great day! 🌟 <br/>
 </div>
 
