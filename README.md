@@ -1,6 +1,6 @@
 ## 👋 Hello there, I'm Maria!
 
-I'm a math graduate who loves exploring and analyzing data! I started learning about data analysis during my studies and I quickly fell in love with the process of transforming complex data into valuable insights. I mainly use PostgreSQL and Python, currently I'm mostly focused on refreshing my R language skills.
+I'm a math graduate who loves exploring and analyzing data! I started learning about data analysis during my studies and I quickly fell in love with the process of transforming complex data into valuable insights. I mainly use PostgreSQL and Python, currently I'm focused on refreshing my R language skills.
 
 <h3> 🛠️ Languages and Tools I use </h3>
 
