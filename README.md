@@ -31,9 +31,8 @@ I'm a math graduate who loves exploring and analyzing data! I started learning a
 
 <h3> My most recent projects/certificates </h3>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-ressel&repo=Scientific-Computing-with-Python)](https://github.com/m-ressel/Scientific-Computing-with-Python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-ressel&repo=Data-Analysis-with-Python)](https://github.com/m-ressel/Data-Analysis-with-Python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-ressel&repo=Scientific-Computing-with-Python)](https://github.com/m-ressel/Scientific-Computing-with-Python)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-ressel&repo=8-Week-SQL-Challenge)](https://github.com/m-ressel/8-Week-SQL-Challenge)
 
 
